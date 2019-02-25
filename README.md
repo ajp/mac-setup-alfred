@@ -1,1 +1,1 @@
-# macos-alfred
+# mac_os-alfred
