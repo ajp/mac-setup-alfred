@@ -1,1 +1,1 @@
-# mac-setup-alfred
+# macos-alfred
